@@ -23,6 +23,7 @@ body {
 .imageContainer {
   float: left;
   width: 620px;
+  height: 500px;	
 }
  
 .textContainer {
